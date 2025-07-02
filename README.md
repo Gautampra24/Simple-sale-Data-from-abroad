@@ -2,6 +2,8 @@
 
 ## 🔍 Project Overview
 
+https://github.com/Gautampra24/Simple-sale-Data-from-abroad/blob/main/Simple%20Sale%20Data.jpg
+
 In this project, I collaborated with stakeholders to understand their business questions and identify key insights required from the sales dataset. Based on these discussions, they wanted to analyze:
 
 - **Sales**
